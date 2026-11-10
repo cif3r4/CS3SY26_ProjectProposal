@@ -2,14 +2,14 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  :
+### Project Title or Name of the Application	: Probability Puzzles
+### Section			   	      : Magnesium
+### Group Members			    : DIOKO, FILLAR, NAZARREA
+### Date (Proposal Date)  : November 10, 2026
 
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- A brief summary of the project description and the need for it. 
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
