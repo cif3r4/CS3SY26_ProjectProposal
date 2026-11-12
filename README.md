@@ -9,11 +9,15 @@
 
 ### Project Description:
 
-- A brief summary of the project description and the need for it. 
+- A brief summary of the project description and the need for it.
+
+- The project demonstrates counterintuitive concepts in Statistics and Probability. Scenarios where the first thing that comes to your mind is not the measured or correct outcome. It demonstrates that critical thinking is important in scenario analysis, and teaches students how to analyze scenarios carefully.
+
+- The project shows scenarios such as the Monty Hall Paradox, the Birthday Paradox, Bertrand's Box Paradox, Boy or Girl Paradox, and the False Positive Paradox
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- Include the description as well of your target demographics as the user of your application. 
+- We hope for this program to reach future statisticians, or anyone curious in improving their statistics skills and being facinated at how intuitive analysis may not always be correct. 
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
