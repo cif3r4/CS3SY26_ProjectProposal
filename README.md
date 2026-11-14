@@ -168,8 +168,8 @@ The following diagram illustrates the proposed class structure, including the at
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
+- Objective 1: 
 - Objective 2:
-- Objective n:
+
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
