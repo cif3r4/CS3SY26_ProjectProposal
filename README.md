@@ -164,12 +164,14 @@ The following diagram illustrates the proposed class structure, including the at
 
 *The diagram represents the proposed architecture and may be modified during implementation.*
 
+<img width="775" height="452" alt="Screenshot 2026-11-14 at 8 48 13 PM" src="https://github.com/user-attachments/assets/2e94ddee-b393-434d-b9d5-b7c56020b3e1" />
+
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+We hope for this project to improve people's understanding of Statistics and Probability by showing how intuitive analysis may not always lead to the correct outcome. Through different probability paradoxes and simulations, we aim to encourage critical thinking, careful scenario analysis, and curiosity about mathematical concepts. Ultimately, we hope to make learning Statistics and Probability more engaging and accessible to students and anyone interested in the subject.
 
-- Objective 1: 
-- Objective 2:
+Objectives
 
+Objective 1: Develop a program that demonstrates different probability paradoxes through simulations, allowing users to observe and compare theoretical and experimental outcomes.
 
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
+Objective 2: Encourage users to think critically and analyze scenarios carefully by understanding why their initial assumptions may differ from the actual mathematical outcomes.
